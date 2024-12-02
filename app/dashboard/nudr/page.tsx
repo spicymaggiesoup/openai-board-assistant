@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <main className={styles.main}>
       <div className={styles.title}>
-        nUDR 장애대응시스템에 대해 궁금하시군요!
+        nUDR 장애대응시스템이 궁금하시군요!
       </div>
       <div className={styles.subtitle}>
         그 중 자세히 알고싶은 항목을 선택해주세요 :)
